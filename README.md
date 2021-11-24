@@ -222,7 +222,7 @@ GROUP BY id_edge_start
 
 ## Referências
 
-(pgRouting Manuals)(https://docs.pgrouting.org/)
+[pgRouting Manuals](https://docs.pgrouting.org/)
 
 ## Autoria e Citações
 
