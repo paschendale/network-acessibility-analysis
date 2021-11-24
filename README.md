@@ -1,6 +1,6 @@
 Este tutorial emprega a versão 13 do PostgreSQL, junto das versões mais atualizadas do PostGIS e pgRouting. Para realizar a instalação das dependências, utilize seu gerenciador de pacotes (em SOs Linux ou Mac) ou os pacotes de instalação da EnterpriseDB (em SOs Windows). Recomenda-se o uso do pgAdmin 4 (instalado junto com os pacotes da EnterpriseDB ou separadamente em Linux e Mac) para rodar os códigos a seguir na base de dados.
 
-Na pasta `examples` há um arquivo `routing.sql`, contendo um dump completo da base de dados utilizada neste artigo, opcionalmente, você pode recuperá-la através da linha de comando do `psql`.
+Na pasta `sql` há um arquivo `routing.sql`, contendo um dump completo da base de dados utilizada neste artigo, opcionalmente, você pode recuperá-la através da linha de comando do `psql`.
 
 ## Preparação da base de dados
 
