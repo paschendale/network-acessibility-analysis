@@ -226,6 +226,6 @@ GROUP BY id_edge_start
 
 ## Autoria e Citações
 
-Este tutorial é resultado de um artigo elaborado pelos estudantes de pós-graduação em Engenharia Civil MSc. Engº. Victor Marotta, Engº. Luís Santos Nascimento, Engº. Augusto Franco e o professor DSc. MSc. Engº. Marcus Vínicius Abreu. 
+Este tutorial é resultado de um artigo elaborado pelos estudantes de pós-graduação em Engenharia Civil MSc. Engº. Victor Marotta, Engº. Luís Santos Nascimento, Engº. Augusto Franco e o professor DSc. MSc. Engº. Marcos Vínicius Abreu. 
 
 Para referências, favor citar: (a publicar)
